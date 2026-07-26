@@ -59,7 +59,7 @@ Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agent
 ### 📫 Como me encontrar
  
 <p>
-  <a href="https://portfolio-smoky-delta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="(https://cadu-ers.vercel.app/)"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:carlos_eduardo91@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://www.instagram.com/cadu.ers"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-rodrigues-silva-0751633ba"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
