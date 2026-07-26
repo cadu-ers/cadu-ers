@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Eduardo 👋
+# Olá, sou o Carlos Eduardo 👋
 
 Sou o Cadu — estudante de **Ciência da Computação na UNISAGRADO** (Centro Universitário Sagrado Coração, Bauru/SP), atualmente no **terceiro período**.
 
