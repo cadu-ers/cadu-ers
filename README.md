@@ -13,17 +13,20 @@ Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agent
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
+
 **Mobile & Game Dev**
 <p>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
+
 **Banco de Dados**
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 **DevOps & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -31,6 +34,7 @@ Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agent
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
 **Inteligência Artificial**
 <p>
   <img src="https://img.shields.io/badge/-Agentes_de_IA_(LLMs%2FRAG)-412991?style=for-the-badge&logo=openai&logoColor=white" />
