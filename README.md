@@ -40,21 +40,21 @@ Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agent
   <img src="https://img.shields.io/badge/-Agentes_de_IA_(LLMs%2FRAG)-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-
 ### 🌱 Em evolução no momento
 
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NVM-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-
 ---
-
 
 ### 📫 Como me encontrar
  
