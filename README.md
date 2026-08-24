@@ -2,7 +2,7 @@
 
 Sou o Cadu — estudante de **Ciência da Computação na UNISAGRADO** (Centro Universitário Sagrado Coração, Bauru/SP), atualmente no **terceiro período**.
 
-Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agentes de IA (LLMs + RAG)**.
+Hoje meu maior foco é ampliar minha stack full-stack e me aprofundar em **agentes de IA (LLMs + RAG)** e **MCPS**
 
 ---
 ### 🧰 Tecnologias com as quais já tive contato
